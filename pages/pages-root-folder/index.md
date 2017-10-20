@@ -10,17 +10,17 @@ breadcrumb: true
 widget1:
   title: "Collections"
   url: '/collections'
-  image: /images/widget-1-302x182.jpg
-  text: 'List of Collections available with the UCLA Digital Library'
+  image: widget-1-308x217.jpeg
+  text: 'View some of the collections made available by the UCLA Digital Library'
 widget2:
   title: "Projects"
   url: '/projects'
-  image: widget-1-302x182.jpg
+  image: widget-2-308x217.png
   text: ''
 widget3:
   title: "Services"
   url: '/services'
-  image: widget-1-302x182.jpg
+  image: widget-3-308x217.jpeg
   text: ''
   
 permalink: /index.html

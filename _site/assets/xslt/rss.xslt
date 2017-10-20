@@ -245,26 +245,10 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a  href="http://localhost:4000/services/">Services</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/request/">Request</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/view/">View</a></li>
-                    
-                  </ul>
-
-              </li>
+              <li><a  href="http://localhost:4000/services/">Services</a></li>
               <li class="divider"></li>
+
+            
             
           
         
@@ -370,7 +354,7 @@
 
             <p class="shadow-black">
               UCLA Digital library workspace that encourages creativity and transformation with Digital Collections
-              <a href="http://localhost:4000/info/">More ›</a>
+              <a href="http://localhost:4000/about/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 

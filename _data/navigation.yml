@@ -17,11 +17,6 @@
 - title: "Services"
   url: "/services/"
   side: left
-  dropdown:
-  - title: "Request"
-    url: "/request/"
-  - title: "View"
-    url: "/view/"
 
 - title: "Search"
   url: "/search/"
