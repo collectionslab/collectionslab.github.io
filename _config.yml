@@ -25,7 +25,7 @@ author: Niqui O'Neill
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://digitalcollectionslab.github.io'
+url: '/digitalcollectionslab'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
