@@ -1,10 +1,12 @@
 ---
 layout: page-fullwidth
-title: "Collections"
-subheadline: "Digitally available collections"
-teaser: 'All collections are available through: <a href="http://digital2.library.ucla.edu" target="_blank">http://digital2.library.ucla.edu</a> and <a href="https://calisphere.org/UCLA/collections/" target="_blank">https://calisphere.org/UCLA/collections/</a>'
+title: "Open collections"
+subheadline: "Featured open collections"
+teaser:
 permalink: "/collections/"
 ---
+The following collections are available via the [UCLA Library Digital Collections](http://digital2.library.ucla.edu) and [Calisphere](https://calisphere.org/UCLA/collections/), the UC Digital Library Collections.
+
 <table>
 <tr>
 <th>
@@ -71,7 +73,7 @@ permalink: "/collections/"
   <a href="http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz0002fn7s" target="_blank">
   <img src="http://digital2.library.ucla.edu/images-new/indexofmedieval.jpg"></a>
   <th>Index of Medieval Images</th>
-</th> 
+</th>
 </tr>
 <tr>
 <th>
@@ -117,7 +119,7 @@ permalink: "/collections/"
   <th>La Organizacion Obrera</th>
 </th>
 </tr>
-<tr>  
+<tr>
 <th>
   <a href="http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz001d0fvw" target="_blank">
   <img src="http://digital2.library.ucla.edu/images-new/pamphletmapscol.jpg"></a>
@@ -172,7 +174,7 @@ permalink: "/collections/"
   <img src="http://digital2.library.ucla.edu/images-new/variouspamphletssciences.jpg"></a>
   <th>Various Pamphlets from History and Special Collections for the Sciences</th>
 </th>
-</tr>  
+</tr>
   </table>
 
 
