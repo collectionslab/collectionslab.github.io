@@ -5,7 +5,7 @@ subheadline: "Featured open collections"
 teaser:
 permalink: "/collections/"
 ---
-The following collections are available via the [UCLA Library Digital Collections](http://digital2.library.ucla.edu) and [Calisphere](https://calisphere.org/UCLA/collections/), the UC Digital Library Collections.
+The digital collections on this page are some of UCLA’s most open. This means that they are in the public domain, or that their owners have made them available for re-use under certain conditions. Copyright status is available when viewing collections at the item level. The following collections are available via the [UCLA Library Digital Collections](http://digital2.library.ucla.edu) and [Calisphere](https://calisphere.org/UCLA/collections/), the UC Digital Library Collections.
 
 <table>
 <tr>
