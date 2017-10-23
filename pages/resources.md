@@ -19,4 +19,4 @@ The goal of Collections Lab is to ecourage research, learning, and experimentati
 
 ### Request collections data
 
-Users can request metadata for certain collections published via UCLA Digital Collections, Calisphere, and other projects such as the International Digital Ephemera (IDEP) Project. To request collection data for a specific collection, please complete the [Collections Data Request Form](...).
+Users can request metadata for certain collections published via UCLA Digital Collections, Calisphere, and other projects such as the International Digital Ephemera (IDEP) Project. To request collection data for a specific collection, please complete the [Collections Data Request Form](...). [Form coming soon!]
