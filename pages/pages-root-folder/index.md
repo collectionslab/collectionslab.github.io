@@ -18,13 +18,12 @@ widget2:
   image: widget-2-308x217.png
   text: ''
 widget3:
-  title: "Services"
-  url: '/services'
+  title: "Resources"
+  url: '/resources'
   image: widget-3-308x217.jpeg
-  text: ''
-  
+  text: 'Data downloads, scripts, and services'
+
 permalink: /index.html
 
 homepage: true
 ---
-

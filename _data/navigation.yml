@@ -2,9 +2,9 @@
   url: "/"
   side: left
 
-- title: "About"
-  url: "/about/"
-  side: left
+# - title: "About"
+#   url: "/about/"
+#   side: left
 
 - title: "Collections"
   url: "/collections/"
@@ -14,14 +14,14 @@
   url: "/projects/"
   side: left
 
-- title: "Services"
-  url: "/services/"
+- title: "Resources"
+  url: "/resources/"
   side: left
 
 - title: "Search"
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+# - title: "Contact"
+#   url: "/contact/"
+#   side: right
