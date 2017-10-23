@@ -1,0 +1,10 @@
+- menu_name: "Pages"
+
+- name: Collections
+  url: /collections
+
+- name: Experiments
+  url: /experiments
+
+- name: Resources
+  url: /resources
