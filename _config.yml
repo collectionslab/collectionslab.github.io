@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'UCLA Library Digital Collections Lab'
+title: 'UCLA Library Collections Lab'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'A creative and transformative digital collections workspace'
@@ -21,16 +21,16 @@ credits: '<p>UCLA Library. <a href="https://creativecommons.org/licenses/by-nc-s
 
 # Main author of the website
 # See > authors.yml
-author: Niqui O'Neill
+author: UCLA Digital Library Program
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://github.com/digitalcollectionslab/digitalcollectionslab.github.io'
+url: 'https://collectionslab.github.io/'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/digitalcollectionslab/digitalcollectionslab.github.io
+improve_content: https://github.com/collectionslab/collectionslab.github.io
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -111,7 +111,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Niqui O'Neill     # Default author for pages
+      author: UCLA Digital Library Program     # Default author for pages
 
 
 #       _   __            _             __  _
