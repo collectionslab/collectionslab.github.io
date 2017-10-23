@@ -5,18 +5,18 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-breadcrumb: true
+breadcrumb: false
 
 widget1:
-  title: "Collections"
+  title: "Open collections"
   url: '/collections/'
   image: widget-1-308x217.jpeg
-  text: 'View some of the collections made available by the UCLA Digital Library'
+  text: 'Featured open collections from UCLA'
 widget2:
   title: "Experiments"
   url: '/experiments/'
   image: widget-2-308x217.png
-  text: ''
+  text: 'Inspiration for collections as data'
 widget3:
   title: "Resources"
   url: '/resources/'
