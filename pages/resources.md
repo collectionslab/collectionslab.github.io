@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Resources"
 subheadline: "Collections data, scripts, & services"
-permalink: "/resources"
+permalink: "/resources/"
 ---
 
 
