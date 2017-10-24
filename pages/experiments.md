@@ -4,7 +4,7 @@ title: "Experiments"
 subheadline: "Collections Lab Experiments"
 permalink: "/experiments/"
 ---
-# Experiments at UCLA
+## Experiments at UCLA
 
 <table>
 <tr>
@@ -17,7 +17,7 @@ permalink: "/experiments/"
   <a href="http://babylon.library.ucla.edu/~broadwell/banzuke_sim/merged.html" target="_blank">
   <img src="../images/kabuki_sim.png"></a>
 </th>
-  <th>Similarity map of the kabuki playbills collection, using neural network and traditional computer vision similarity</th>
+  <th>Similarity map of the kabuki playbills contents, using neural network and traditional computer vision similarity</th>
 <th>
   <a href="http://babylon.library.ucla.edu/~broadwell/ehon_banzuke/coverspace/" target="_blank">
   <img src="../images/kabuki_colors.png"></a>
@@ -56,6 +56,19 @@ permalink: "/experiments/"
 </tr>
 </table>
 
+## Experiments and projects at other institutions
+
+### NYPL (New York Public Library) Labs
+- [**Public Domain Collections**](https://www.nypl.org/research/collections/digital-collections/public-domain): More than 180,000 items in the NYPL's Digital Collections are in the Public Domain and have been made available for download, remixes, and these impressive [visualizations](http://publicdomain.nypl.org/pd-visualization/).
+- The NYPL Labs did many other ambitious [projects](https://www.nypl.org/blog/2014/09/03/generative-ebook-covers), several of which used data from their extensive digital collections.
+
+### Yale University Library Digital Humanities Lab
+- [Photogrammar](http://photogrammar.yale.edu/): A web-based platform for organizing, searching and visualizing the 170,000 photographs created by the United States Farm Security Administration and Office of War Information (FSA-OWI) from 1935–1945.
+- [Neural Neighbors](https://yaledhlab.github.io/neural-neighbors/): A project underway to "enable users to identify visual similarity at scale across collections of photographs and videos," focused on the Beinecke Library's vast Meserve-Kunhardt Collection of nineteenth-century photographs.
+
+### Always Already Computational: Collections as Data
+- A grant-funded [project](https://collectionsasdata.github.io/) involving many libraries and memory institutions, dedicated to "encouraging reuse of collections that support computationally-driven research and teaching."
+- So far, this effort has been dedicated primarily to theoretical discussions, but it's worth following.
 
 <style>
 table img {
