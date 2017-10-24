@@ -4,7 +4,7 @@ title: "Experiments"
 subheadline: "Collections Lab Experiments"
 permalink: "/experiments/"
 ---
-## Experiments at UCLA
+# Experiments at UCLA
 
 <table>
 <tr>
@@ -29,7 +29,8 @@ permalink: "/experiments/"
   <a href="http://babylon.library.ucla.edu/~broadwell/latimes/" target="_blank">
   <img src="../images/latimes_zoom.png"></a>
 </th>
-  <th>The LA Times Photo Archive, zoomable and clustered by neural network image similarity</th>
+<th>The LA Times Photo Archive, zoomable and clustered by neural network image similarity</th>
+<th>
   <a href="https://public.tableau.com/profile/setarehsaleh#!/vizhome/LATimesPhotoArchive/LATimesPhotoViewer" target="_blank">
   <img src="../images/latimes_viewer.png"></a>
 </th>
@@ -51,8 +52,7 @@ permalink: "/experiments/"
   <img src="http://digital2.library.ucla.edu/images-new/sachtlebendiaries.jpg"></a>
 </th>
   <th>Crowdsourcing transcriptions of the William Sachtleben Diaries collection</th>
-<th>&nbsp;/</th>
-  <th>&nbsp;</th>
+<th>&nbsp;</th>
 </tr>
 </table>
 
