@@ -67,7 +67,7 @@ permalink: "/experiments/"
 - [Neural Neighbors](https://yaledhlab.github.io/neural-neighbors/): A project underway to "enable users to identify visual similarity at scale across collections of photographs and videos," focused on the Beinecke Library's vast Meserve-Kunhardt Collection of nineteenth-century photographs.
 
 ### Public Collections Data
-Many other libraries and institutions have made some potentially very interesting collections (though sometimes only the metadata) publicly available as bulk download or linked open data (LOD) sources, but have not done significant analyses or visualizations. A comprehensive listing is beyond the scope of this site, but here are a few high-profile examples:
+Many other libraries and institutions have made some potentially very interesting collections (though sometimes only the metadata) publicly available as bulk downloads or linked open data (LOD) sources, but have not done significant analyses or visualizations. A comprehensive listing is beyond the scope of this site, but here are a few high-profile examples:
 - The [Carnegie Hall performance records](https://github.com/CarnegieHall/linked-data) as Linked Open Data
 - The New York Philharmonic [performance history](https://github.com/nyphilarchive/PerformanceHistory) records
 - 130,000 [metadata records](https://github.com/MuseumofModernArt/collection) from the Museum of Modern Art's collections
