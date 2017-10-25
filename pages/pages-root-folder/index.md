@@ -16,7 +16,7 @@ widget2:
   title: "Experiments"
   url: '/experiments/'
   image: widget-2-308x217.png
-  text: 'Inspiration for collections as data'
+  text: 'Collections as data in the wild'
 widget3:
   title: "Resources"
   url: '/resources/'
