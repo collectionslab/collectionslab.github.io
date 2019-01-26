@@ -10,7 +10,7 @@ title:            Collections Lab
 tagline:          'Collections as Data'
 description:      'Machine-learning and collections as data experiments with digital collections'
 url:
-baseurl:          /clab/
+baseurl:          /
 
 author:
   name:           'Dawn Childress'
