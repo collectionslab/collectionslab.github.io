@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Collections Lab
 tagline:          'UCLA Digital Library'
 description:      'Machine-learning and collections as data experiments with digital collections'
-url:
-baseurl:          /
+url:              https://collectionslab.github.io
+baseurl:          
 
 author:
   name:           'Dawn Childress'
