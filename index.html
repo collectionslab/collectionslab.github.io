@@ -1,0 +1,49 @@
+---
+layout: default
+title: Home
+---
+<h3>Welcome to the UCLA Library Collections Lab!</h2>
+<br>
+<!-- browsing grid -->
+<div class="row">
+  <div class="widget">
+    <a href="/collections/">
+      <img src="/ {{ base.url }}/images/kabuki-color.jpg" />
+    </a>
+    <h3>Open Collections</h3>
+  </div>
+  <div class="widget">
+    <a href="/experiments/">
+      <img src="/images/lyricalmap.png" />
+    </a>
+    <h3>Experiments</h3>
+  </div>
+  <div class="widget">
+    <a href="/resources/">
+      <img src="/images/carteles.jpg" />
+    </a>
+    <h3>Resources</h3>
+  </div>
+</div>
+
+<hr />
+<h3>Contribute!</h3>
+<div class="toc">
+  <img src="/images/bace.jpg" class="avatar" />
+  <a href="https://www.zooniverse.org/projects/kirschbombe/book-annotation-classification">Tag annotations in printed books</a>
+  <p>We need your help to generate training data for the Book Annotation Classification Engine, a machine-learning experiment to identify annotations in large collections of digitized printed books.</p>
+</div>
+<div class="toc">
+  <img src="/images/sachtleben.jpg" class="avatar" />
+  <a href="https://www.zooniverse.org/projects/kirschbombe/sachtleben-diaries">Transcribe the Sachtleben travel diaries</a>
+  <p>Help us transcribe the travels of William Sachtleben through Greece and Turkey.</p>
+</div>
+
+<hr />
+
+<h3>Recent posts</h3>
+<ul>
+  {% for post in site.posts limit: 5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>

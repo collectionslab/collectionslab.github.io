@@ -1,0 +1,48 @@
+
+- title: "Book Annotation Classification Engine"
+  url: https://github.com/collectionslab/annotations-computervision
+  snippet: >
+      Machine-learning experiments to identify and classify annotations in digitized printed books in IIIF-hosted collections
+  avatar: "/images/bace.jpg"
+
+- title: "Flâneur"
+  url: http://dawnchildress.com/flaneur/
+  snippet: >
+      A Jekyll framework for maps, images, and texts using Leaflet and Leaflet-IIIF
+  avatar: "/images/flaneur.png"
+
+- title: "Neural Networks 2: Kabuki Ezukushi"
+  url: "/2017/02/06/kabuki-neuralnetworks/"
+  snippet: >
+      A zoomable visualization of thumbnails in the Kabuki playbills collection, clustered by image similarity as determined by a neural network
+  avatar: "/images/kabuki-color.jpg"
+
+- title: "Los Angeles: The City and the Library"
+  url: https://citystoriesucla.github.io/lyricalmap/
+  snippet: >
+      An interactive exploration of archives, place, and space in and around Los Angeles.
+  avatar: "/images/lyricalmap.png"
+
+- title: "William Sachtleben Diaries"
+  url: https://www.zooniverse.org/projects/kirschbombe/sachtleben-diaries
+  snippet: >
+      A crowdsourcing project using the Zooniverse platform to transcribe the Sachtleben Diaries
+  avatar: "/images/sachtleben.jpg"
+
+- title: "Neural Networks: LA Times Photo Archive"
+  url: http://babylon.library.ucla.edu/~broadwell/latimes/
+  snippet: >
+      A zoomable visualization of thumbnails in the LA Times Photo Archive, clustered by neural network image similarity
+  avatar: "/images/latimes-neural.png"
+
+- title: "Tableau: LA Times Photo Archive Data"
+  url: https://public.tableau.com/profile/setarehsaleh#!/vizhome/LATimesPhotoArchive/LATimesPhotoViewer
+  snippet: >
+      The LA Times Photo Archive visualized by photographers, places, and time periods
+  avatar: "/images/latimes-tableau.png"
+
+- title: "Print collections in the UCLA Library, by Language"
+  url: http://www.library.ucla.edu/news/new-visualization-library-collections-language
+  snippet: >
+      An exploration of print collections data by language, visualized using Tableau public
+  avatar: "/images/printcollections.png"

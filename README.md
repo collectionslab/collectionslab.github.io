@@ -1,1 +1,1 @@
-Created using the Jekyll feeling responsive theme (http://phlow.github.io/feeling-responsive/.)
+## Collections Lab @ UCLA Library
