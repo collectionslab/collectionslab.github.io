@@ -1,1 +1,1 @@
-## Collections Lab @ UCLA Library
+## Collections Lab prototype site
